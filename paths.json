@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/carp-forms/:/"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/carp-forms/"
   ]
 }
