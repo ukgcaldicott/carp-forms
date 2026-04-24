@@ -1,6 +1,8 @@
 {
   "mappings": [
-    "/content/carp-forms/:/"
+    "/content/carp-forms/:/",
+    "/content/carp-forms/configuration/.helix/config.json",
+    "/content/carp-forms/metadata:/metadata.json"
   ],
   "includes": [
     "/content/carp-forms/"
